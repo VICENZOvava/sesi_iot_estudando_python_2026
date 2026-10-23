@@ -15,3 +15,5 @@ with open("entrada.txt", "r") as entrada:
                 i += 1
 
             saida.write(" ".join(portas) + "\n")
+
+
